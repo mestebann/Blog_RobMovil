@@ -94,6 +94,6 @@ v = max(Vmin, min(Vmax, v))
       HAL.setW(0.4 * ultimo_giro if ultimo_giro != 0 else 0.4) 
 
 ## Vídeo
-El video se puede encontrar en el siguiente enlace: [video del funcionamiento]https://drive.google.com/file/d/1SJken-aVUpuuLflx7KAfTMk7PYbxxlQP/view?usp=sharing
+El video se puede encontrar en el siguiente enlace: [video del funcionamiento](https://drive.google.com/file/d/1SJken-aVUpuuLflx7KAfTMk7PYbxxlQP/view?usp=sharing)
 
 Hay que matizar que dependiendo de cuánto de sobrecargada esté la CPU irá mejor o peor el coche, en cas de que esté sobrecargada, la frecuencia con la que se ejecuta el código es menor y por tanto el coche no responderá de igual manera. 
