@@ -69,13 +69,9 @@ if hay_obstaculo:
   mapa_ocupacion[celda_y, celda_x] = min(1, mapa_ocupacion[celda_y, celda_x] * ratio_obstaculo)
 ```
 
-## Problema
-
-Hay que matizar un problema que no he conseguido solucionar. El problema se trata de que en la visualización del mapa, me aparece el mapa rotado 90 grados. He intentado solucionarlo modificando los ejes e intercambiando filas por columnas en varias partes del script, pero no he conseguido arreglarlo. Se puede observar este problema en el vídeo de muestra.
-
 ## Vídeo
 
-[Vídeo del funcionamiento](https://drive.google.com/file/d/1Yl9-i8aPvBN6NKl1hL-U8tDwOE6A1smr/view?usp=sharing)
+[Vídeo del funcionamiento](https://drive.google.com/file/d/1oBjjEywdGbcFKRICO12ZmnKSX1xl3i3J/view?usp=sharing)
 
 
 
